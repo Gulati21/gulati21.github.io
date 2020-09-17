@@ -2,10 +2,3 @@ theme: jekyll-theme-slate
 title: Kirtwinder Gulati
 description: My Resume
 show_downloads: false
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - index.md
