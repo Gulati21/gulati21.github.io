@@ -3,7 +3,7 @@
 <b>Location</b>: Redmond, WA<br>
 <b>Email</b>: gulati21@live.com<br>
 <b>LinkedIn </b>: [linkedin.com/in/ksgulati](https://linkedin.com/in/ksgulati)<br>
-</p>
+
 
 
 ## Work experience
@@ -60,11 +60,12 @@ Technologies used: MobX, Jest, AWS, React, AntDesign, CSS
 #### Jun 2016 - August 2016
 
 <p>
-Developed content and taught 2 week courses in<br>
+Developed content and taught 2 week courses in
 
 * Java
 * Arduino
 * MIT Scratch
+
 </p>
 
 
