@@ -1,6 +1,13 @@
 AllCops:
+  NewCops: enable
   Exclude:
     - _site/**/*
 
 Layout/LineLength:
-  Enabled: false
+  Enabled: false    
+Layout/BeginEndAlignment:
+  Enabled: true
+Layout/EmptyLinesAroundAttributeAccessor:
+  Enabled: true
+Layout/SpaceAroundMethodCallOperator:
+  Enabled: true
