@@ -1,1 +1,11 @@
 theme: jekyll-theme-midnight
+title: Kirtwinder Gulati
+description: My Resume
+show_downloads: false
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
