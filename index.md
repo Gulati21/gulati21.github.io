@@ -1,6 +1,6 @@
 ## Personal Details
 
-<b>Location</b>: Redmond, WA<br>
+<b>Location</b>: Seattle Downtown, WA<br>
 <b>Email</b>: gulati21@live.com<br>
 <b>LinkedIn </b>: [linkedin.com/in/ksgulati](https://linkedin.com/in/ksgulati)<br>
 
@@ -8,9 +8,23 @@
 
 ## Work experience
 
+### Software Developer @ Accretive Technology Group
+
+#### March 2021 - Current
+
+<p>
+Worked on a number of teams under strict NDA compliance as a fullstack dev, primarily focused upon customer tooling. Worked additionally on upgrading systems from PHP/Angular -> TS, and React/mixed stacks -> TS. Heavy emphasis on flexibility and ownership of initiatives, from self-driven planning quarter long efforts, to implementing them, on small 3 person, agile teams.
+* Improved poweruser experience on administrative dashboards by adding Redis caching to reduce load times by 75%, regular load times by up to 20%
+* Rewrote large landing page from Angular/PHP/React to TS unified, with 150k user monthly traffic, in place with carousel, animations, and mobile views
+* Worked with Koa middleware and server creation, Federated Module patterns
+* Assisted team leads with Scrum duties and ownership of Epics throughout the org
+<br>
+Technologies Used: Typescriptm PHP, Node 18, React, Jest, Angular, MariaDB, Docker, Jenkins, Redis
+</p>
+
 ### Software Developer @ Microsoft
 
-#### August 2019 - Present
+#### August 2019 - September 2020
 
 <p>
 Worked on the Azure Blob Storage (ABS) team to manage trillions of blobs of data. 
